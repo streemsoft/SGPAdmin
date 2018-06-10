@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="app.streem.sgpadmin">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".CadPrecosActivity" />
+        <activity android:name=".ListaPrecosActivity" />
+        <activity android:name=".CadClienteActivity" />
+        <activity android:name=".ListaClientesAdminActivity" />
+        <activity android:name=".ListaClientesGeralActivity" />
+        <activity android:name=".ManuFrentistaActivity" />
+        <activity android:name=".CadProdutoActivity" />
+        <activity android:name=".ListaProdutosActivity" />
+        <activity android:name=".CadBombasActivity" />
+        <activity android:name=".CadQuartosActivity" />
+        <activity android:name=".LancamentosActivity" />
+        <activity android:name=".RecibosActivity" />
+        <activity android:name=".DiariaActivity" />
+        <activity android:name=".PagValesActivity" />
+        <activity android:name=".ConsultaDespesaActivity" />
+        <activity android:name=".HomeGeralActivity" />
+        <activity android:name=".HomeAdminActivity">
+        </activity>
+        <activity android:name=".SeletorFuncionarioActivity" />
+        <activity android:name=".ConsultaDiariaActivity" />
+        <activity android:name=".ConsultaCaixaActivity" />
+        <activity android:name=".SeletorPostoActivity" />
+        <activity android:name=".FechamentoBombasActivity" />
+        <activity android:name=".LoginActivity">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

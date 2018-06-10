@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "897998078716",
+    "firebase_url": "https://sgpadmin-fd2e5.firebaseio.com",
+    "project_id": "sgpadmin-fd2e5",
+    "storage_bucket": "sgpadmin-fd2e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897998078716:android:bb2bd092189ac417",
+        "android_client_info": {
+          "package_name": "app.streem.sgpadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897998078716-29rfod7h41la8urdskbngiabfrhdvapp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.streem.sgpadmin",
+            "certificate_hash": "bc0a36800ece070e9b54a0871c0dc3d1c481b1fc"
+          }
+        },
+        {
+          "client_id": "897998078716-utlha3gpo6dtam9tn2c9lr9e9q7tp565.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyOcPel7a8P1WDlQCuK_YUTxrBdzv-qZo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897998078716-utlha3gpo6dtam9tn2c9lr9e9q7tp565.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
